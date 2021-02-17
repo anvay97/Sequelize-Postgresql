@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-postgresql",
+  "version": "1.0.0",
+  "description": "Package file for Sequelize Postgresql app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvay97/Sequelize-Postgresql.git"
+  },
+  "author": "Anvay Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvay97/Sequelize-Postgresql/issues"
+  },
+  "homepage": "https://github.com/anvay97/Sequelize-Postgresql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.5.0"
+  }
+}
